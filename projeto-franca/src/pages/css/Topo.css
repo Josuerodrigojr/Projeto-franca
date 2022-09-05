@@ -1,6 +1,36 @@
 
-body{
+.topo{
+
     background-color: black;
-    color: white;
+    color: rgb(255, 255, 255);
     
 }
+
+
+
+.flex-end {
+	justify-content: flex-end;
+}
+
+
+.container {
+
+	margin: 0 auto;
+	display: flex;
+
+}
+
+
+
+
+.item {
+	margin: 5px;
+	padding: 0 10px;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+@media screen {
+    
+}
+
